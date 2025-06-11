@@ -1,5 +1,5 @@
 [package]
-entrypoint = "src/main.py"
+entrypoint = "main.py"
 
 [source]
 repository = "https://github.com/razorblade23/test-project-for-PyCrucible"
